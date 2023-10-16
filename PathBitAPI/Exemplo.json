@@ -1,0 +1,23 @@
+{
+  "nome": "string",
+  "nascimento": "2023-10-12T20:24:25.261Z",
+  "cpf": "string",
+  "telefone": "string",
+  "financeiro": {
+    "renda": 0,
+    "patrimonio": 0
+  },
+  "endereco": {
+    "rua": "string",
+    "numero": "string",
+    "bairro": "string",
+    "cidade": "string",
+    "estado": "string",
+    "cep": "string"
+  },
+  "seguranca": {
+    "email": "string",
+    "senha": "Abc123123#",
+    "confirmacaoSenha": "Abc123123#"
+  }
+}

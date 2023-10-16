@@ -1,0 +1,23 @@
+{
+  "Nome": "Magno",
+  "Nascimento": "0001-01-01T00:00:00",
+  "CPF": "497.095.028-83",
+  "Telefone": "11971418353",
+  "Financeiro": {
+    "Renda": 500.0,
+    "Patrimonio": 6000.0
+  },
+  "Endereco": {
+    "Rua": "asdas",
+    "Numero": "asdasd",
+    "Bairro": "dasdasd",
+    "Cidade": "asdasd",
+    "Estado": "asdasdas",
+    "CEP": "asdasda"
+  },
+  "Seguranca": {
+    "Email": "asdas",
+    "Senha": "7E3DECBB70B7EC5E845DF1277293698DCC55D66F39EC13414C67C0069D8FAD1902CDC60886999DB2B69C534563DF9063580DC6B94E39AD384822A1BAD163668E",
+    "ConfirmacaoSenha": "7E3DECBB70B7EC5E845DF1277293698DCC55D66F39EC13414C67C0069D8FAD1902CDC60886999DB2B69C534563DF9063580DC6B94E39AD384822A1BAD163668E"
+  }
+}
